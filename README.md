@@ -45,4 +45,4 @@
 
 </div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehadhiya&show_icons=true&locale=en" alt="mehadhiya" style="width:400px;height:auto" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehadhiya&" alt="mehadhiya" style="width:400px;height:auto" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehadhiya&" alt="mehadhiya"  style="width:400px;height:auto"/></p>
