@@ -40,8 +40,9 @@
 </p>
 
 
+
 <div style="display: flex;">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehadhiya&show_icons=true&locale=en&layout=compact" alt="mehadhiya" style="width:400px;height:auto" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehadhiya&show_icons=true&locale=en&layout=compact" alt="mehadhiya" style="width:300px;height:auto" /></p>
 
 </div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehadhiya&show_icons=true&locale=en" alt="mehadhiya" style="width:400px;height:auto" /></p>
