@@ -42,8 +42,8 @@
 
 
 <div style="display: flex;">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehadhiya&show_icons=true&locale=en&layout=compact" alt="mehadhiya" style="width:300px;height:auto" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehadhiya&show_icons=true&locale=en&layout=compact" alt="mehadhiya" style="width:350px;height:auto" /></p>
 
 </div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehadhiya&show_icons=true&locale=en" alt="mehadhiya" style="width:300px;height:auto" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehadhiya&" alt="mehadhiya"  style="width:300px;height:auto"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehadhiya&show_icons=true&locale=en" alt="mehadhiya" style="width:350px;height:auto" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehadhiya&" alt="mehadhiya"  style="width:350px;height:auto"/></p>
